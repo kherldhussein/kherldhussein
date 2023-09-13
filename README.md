@@ -6,7 +6,8 @@
 
 [![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 
-[![Lang:Python](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Lang:Rust](https://img.shields.io/badge/Lang-Rust-blue?style=flat-square&logo=rust)](https://www.rust-lang.org/)
+[![Lang:Dart](https://img.shields.io/badge/Lang-Dart-blue?style=flat-square&logo=dart)](https://www.dart.dev/)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![IDE:Kate](https://img.shields.io/badge/IDE-Kate-blue?style=flat-square&logo=kate)](https://kate-editor.org)
