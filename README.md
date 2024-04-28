@@ -5,7 +5,7 @@
 [![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 
 [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-blue?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-[![Lang:Dart](https://img.shields.io/badge/Lang-Dart-blue?style=flat-square&logo=dart)](https://www.dart.dev/)
+[![Lang:GO](https://img.shields.io/badge/Lang-Go-blue?style=flat-square&logo=go)](https://www.go.dev/)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![IDE:AndroidStudio](https://img.shields.io/badge/IDE-AndroidStudio-blue?style=flat-square&logo=androidstudio)](https://developer.android.com/studio)
